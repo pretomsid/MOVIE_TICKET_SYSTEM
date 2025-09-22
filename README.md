@@ -4,7 +4,6 @@ A Java Swing-based desktop application for booking movie tickets with an intuiti
 
 ## 📋 Table of Contents
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -21,10 +20,6 @@ A Java Swing-based desktop application for booking movie tickets with an intuiti
 - **Seat Selection**: Interactive seat selection with visual representation
 - **Booking Confirmation**: Complete booking process with confirmation details
 - **Cross-Platform**: Runs on any system with Java support
-
-## 🖥️ Screenshots
-
-*Add screenshots of your application here*
 
 ## 🔧 Requirements
 
@@ -144,8 +139,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@pretomsid](https://github.com/pretomsid)
+- Email: siddharthosen09@gmail.com
 
 ## 🙏 Acknowledgments
 
